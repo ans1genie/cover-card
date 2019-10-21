@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Anas AIT BAHA'
-description: 'I am amazing.'
+description: 'I have a dream!'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,31 +11,25 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-#dribbble: 'mydribbble'
+dribbble: 'ans1genie'
 facebook: 'ans1genie'
 twitter: 'ans1genie'
 linkedin: 'aitbahaa'
 instagram: 'ans1genie'
-#pinterest: 'mypinterest'
 youtube: 'anasaitbaha'
 github-user: 'ans1genie'
-#gitlab-user: ''
 codepen: 'ans1genie'
-#steam: ''
 soundcloud: 'ans1genie'
-#lastfm: ''
 stack-overflow: 'ans1genie'
 reddit: 'aitbahaa'
-#rubygems: ''
-medium:  'ans1genie'
-#tumblr: 'mytumblr'
-#weibo: 'myweibo'
-#vk: 'myvk'
-#blog_url: 'myblog.blog.com'
+medium: 'ans1genie'
 email: 'anas@aitbahaa.me'
-#messenger: 'myfbchat'
+quora: Anas-Ait-Baha
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [
+                      github-user, facebook, twitter, instagram, medium, soundcloud,
+                      linkedin, youtube, quora, reddit, codepen, stack-overflow, dribbble, email
+                    ]
 
 # Advanced settings
 plugins:
